@@ -7,7 +7,7 @@
 *Transformando curiosidade em conhecimento e ideias em projetos.* 💻💗
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaellalopesmendonca-ops)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-EA8FB5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_SEU_LINK_DO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-EA8FB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafaella-lopes-b8aba83b3)
 
 </div>
 
