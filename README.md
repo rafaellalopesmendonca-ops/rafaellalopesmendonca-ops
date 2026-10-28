@@ -1,89 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Oii,%20eu%20sou%20a%20Rafaella!%20🌷&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bem-vindos%20ao%20meu%20cantinho%20da%20tecnologia%20✨&descAlignY=58&descSize=15" width="100%" />
+# 👩🏻‍💻 Olá, eu sou a Rafaella Lopes!
 
-### 🎀 Desenvolvedora em formação | Apaixonada por tecnologia
+### Estudante de Análise e Desenvolvimento de Sistemas | Explorando o mundo da tecnologia
 
-*Transformando curiosidade em conhecimento e ideias em projetos.* 💻💗
-
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaellalopesmendonca-ops)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-EA8FB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafaella-lopes-b8aba83b3)
+<p>
+  <a href="https://github.com/rafaellalopesmendonca-ops">
+    <img src="https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🌸 Sobre mim
+## ✨ Sobre mim
 
-Oi! Eu sou a **Rafaella Lopes**, estudante da área de tecnologia e uma pessoa curiosa, dedicada e sempre disposta a aprender algo novo. 💕
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória na área de Tecnologia da Informação.
 
-Atualmente, estou desenvolvendo meus conhecimentos em programação, banco de dados e desenvolvimento de sistemas.
+Minha jornada na tecnologia é marcada pela curiosidade, vontade de aprender e interesse em transformar ideias em soluções práticas. Gosto de explorar novas ferramentas, desenvolver projetos e colocar em prática os conhecimentos adquiridos nos estudos.
 
-Gosto de transformar o que aprendo nas aulas em projetos práticos, explorando novas ferramentas e buscando evoluir um pouquinho a cada dia. ✨
+Atualmente, busco evoluir minhas habilidades técnicas, ampliar meu portfólio e conquistar oportunidades para crescer profissionalmente na área de TI.
 
-🌷 Estou construindo minha jornada na tecnologia, um projeto de cada vez!
+Acredito que cada projeto é uma oportunidade de aprender algo novo, resolver problemas e dar mais um passo na minha evolução profissional. 🚀
 
-## 💻 Tecnologias e ferramentas
+## 🎯 Atualmente
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Desenvolvendo projetos para praticar programação.
+- 🌱 Aprimorando meus conhecimentos em desenvolvimento de software.
+- 🗄️ Explorando conceitos de bancos de dados e organização de informações.
+- 🤖 Conhecendo ferramentas de inteligência artificial aplicadas à tecnologia.
+- 🚀 Em busca de oportunidades de estágio e desenvolvimento profissional em TI.
+
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens e desenvolvimento**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+</p>
+
+*As tecnologias acima devem refletir seus conhecimentos atuais. Podemos ajustar a lista conforme as ferramentas que você já estudou e utilizou nos projetos.*
+
+## 📂 Projetos
+
+Aqui compartilho projetos acadêmicos e pessoais que fazem parte da minha evolução na tecnologia.
+
+🔹 **Portfólio pessoal** — apresentação profissional e organização dos meus projetos.
+
+🔹 **Projetos com Python** — exercícios e aplicações práticas para desenvolver minha lógica de programação.
+
+🔹 **Projetos acadêmicos** — atividades e soluções desenvolvidas durante a graduação.
+
+Confira meus repositórios para acompanhar minha evolução e conhecer meus projetos!
+
+👉 [Acessar meus repositórios](https://github.com/rafaellalopesmendonca-ops?tab=repositories)
+
+## 📈 Minha evolução
+
+Estou em constante aprendizado, buscando transformar conhecimento em prática e desenvolver cada vez mais minha capacidade de criar soluções tecnológicas.
+
+Meu objetivo é construir uma carreira sólida em TI, aprender com novos desafios e contribuir com projetos que façam a diferença.
+
+## 🤝 Vamos nos conectar?
+
+<p>
+  <a href="https://github.com/rafaellalopesmendonca-ops">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+💬 Estou aberta a trocar conhecimentos, conhecer novos projetos e me conectar com pessoas da área de tecnologia.
+
+---
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-FF8A65?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-B39DDB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F4D06F?style=for-the-badge&logo=javascript&logoColor=333333)
-![Python](https://img.shields.io/badge/Python-9DC6E0?style=for-the-badge&logo=python&logoColor=333333)
-![C](https://img.shields.io/badge/Linguagem_C-F48FB1?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-80CBC4?style=for-the-badge&logo=mysql&logoColor=333333)
-![Git](https://img.shields.io/badge/Git-E8A0BF?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-C5B0E8?style=for-the-badge&logo=github&logoColor=333333)
+**Obrigada pela visita! 💜**
 
-</div>
-
-## 🧁 Meus projetinhos
-
-Aqui estão alguns dos projetos que fazem parte da minha jornada de aprendizado! 💗
-
-### 🎨 [Portfólio Pessoal](https://github.com/rafaellalopesmendonca-ops/portfólio-rafaella)
-
-Meu cantinho profissional, desenvolvido com HTML, CSS e JavaScript, para apresentar minhas informações, habilidades e experiências.
-
-### 🏥 [Sistema de Gestão Hospitalar](https://github.com/rafaellalopesmendonca-ops/Gest-o-hospitalar)
-
-Projeto de sistema hospitalar com foco na organização do atendimento e na lógica de gerenciamento de pacientes.
-
-### 🐍 [Projeto Planilha Python](https://github.com/rafaellalopesmendonca-ops/projeto-planilha-python)
-
-Sistema desenvolvido em Python para auxiliar no gerenciamento de alunos utilizando planilhas do Excel.
-
-### 🍰 [Banco de Dados para Confeitaria](https://github.com/rafaellalopesmendonca-ops/bancoconfeitaria)
-
-Projeto acadêmico voltado à modelagem e organização de dados para uma confeitaria.
-
-## 📚 O que estou aprendendo?
-
-🌷 Lógica de programação e algoritmos.
-
-💗 Desenvolvimento de sistemas e aplicações.
-
-🧁 Modelagem de bancos de dados e consultas SQL.
-
-🎀 Manipulação de arquivos e organização de dados.
-
-✨ Git, GitHub e boas práticas de desenvolvimento.
-
-## 🌱 Minha jornada
-
-Acredito que cada linha de código é uma oportunidade de aprender alguma coisa nova.
-
-Ainda estou no começo da minha jornada, mas quero continuar desenvolvendo projetos, enfrentando desafios e construindo meu espaço no mundo da tecnologia. 💻💕
-
-<div align="center">
-
-### 💌 Vamos nos conectar?
-
-Seja bem-vindo(a) ao meu GitHub! Fique à vontade para conhecer meus projetos e acompanhar minha evolução. 🌷
-
-**Obrigada pela visita! Feito com muito carinho 💗**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+*Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.*
 
 </div>
